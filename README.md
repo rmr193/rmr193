@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rajesh Mozumder Ranti</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://codersera.com/blog/wp-content/uploads/2019/07/BLOG-23-L-3.jpg">
+<img align="right" alt="Coding" width="400" src="[https://codersera.com/blog/wp-content/uploads/2019/07/BLOG-23-L-3.jpg](https://www.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_10798281.htm#query=web%20developer%20cartoon&position=0&from_view=keyword&track=ais&uuid=fab143dc-7156-4b86-a060-bbe27c5478cf)">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rmr193&label=Profile%20views&color=0e75b6&style=flat" alt="rmr193" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
