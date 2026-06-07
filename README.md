@@ -1,4 +1,3 @@
-```html
 <h1 align="center">Hi 👋, I'm Rajesh Mozumder Ranti</h1>
 
 <h3 align="center">A passionate Web Developer from Bangladesh</h3>
@@ -87,4 +86,3 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
     src="https://github-readme-streak-stats.herokuapp.com/?user=rmr193&"
     alt="rmr193" />
 </p>
-```
