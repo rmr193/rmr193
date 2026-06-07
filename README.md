@@ -64,24 +64,22 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
 <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
 </a>
+<br>
 
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
+<h3 align="center">⚡ GitHub Profile Overview ⚡</h3>
 
-<p>
-  <img align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=rmr193&show_icons=true&locale=en&layout=compact"
-    alt="rmr193" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rmr193&theme=tokyonight" />
 </p>
 
-<p>
-  <img align="center"
-    src="https://github-readme-stats.vercel.app/api?username=rmr193&show_icons=true&locale=en"
-    alt="rmr193" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rmr193&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rmr193&theme=tokyonight" />
 </p>
 
-<p>
+<p align="center">
   <img align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=rmr193&"
     alt="rmr193" />
